@@ -1,0 +1,5 @@
+1. True or False: The output of an algorithm can change even if you give it the same inputs every time.
+A:
+
+2. True or False: Pseudo code is runnable code.
+A: 
