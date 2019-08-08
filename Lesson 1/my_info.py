@@ -7,6 +7,6 @@
 
 
 # TODO: Print out your age
-
+print(23)
 
 # TODO: Print out your favorite food(s)
